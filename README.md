@@ -3,7 +3,9 @@ This code provides rcBK evolved dipole amplitude
 
 Based on 
 T. Lappi, H. Mäntysaari
-Phys.Rev. D88 (2013) 114020, arXiv:arXiv:1309.6963 
+Phys.Rev. D88 (2013) 114020, arXiv:1309.6963 
+
+The "mvgamma" fit parameters are from Albacete, Armesto, Milhano, Quiroga-Arias, Salgado, Eur. Phys. J C71, 1705, arXiv:1012.4408
 
 Initial condition for the LO BK evolution is fitted to the HERA data.
 The resulting dipole amplitudes can be found in data tables in data directory
