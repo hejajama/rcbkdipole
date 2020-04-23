@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
 
 # project name and enable C++ support
-project(rcbkdipole)
+project(rcbkdipole CXX C)
 
 # Optimization on (for debug flags, change to Debug)
 set(CMAKE_BUILD_TYPE Release)
