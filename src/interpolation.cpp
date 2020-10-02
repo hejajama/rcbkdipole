@@ -301,7 +301,7 @@ Interpolator::Interpolator(const Interpolator& inter)
     for (int i=0; i<points; i++)
     {
         xdata[i] = tmpspline->x[i];
-        ydata[i] = tmpspline->y[1];
+        ydata[i] = tmpspline->y[i];
     }
     minx = xdata[0]; maxx=xdata[points-1];
     method = inter.GetMethod();
